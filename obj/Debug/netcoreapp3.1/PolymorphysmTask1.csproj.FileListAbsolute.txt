@@ -1,0 +1,14 @@
+C:\Users\Onur\source\repos\PolymorphysmTask1\bin\Debug\netcoreapp3.1\PolymorphysmTask1.exe
+C:\Users\Onur\source\repos\PolymorphysmTask1\bin\Debug\netcoreapp3.1\PolymorphysmTask1.deps.json
+C:\Users\Onur\source\repos\PolymorphysmTask1\bin\Debug\netcoreapp3.1\PolymorphysmTask1.runtimeconfig.json
+C:\Users\Onur\source\repos\PolymorphysmTask1\bin\Debug\netcoreapp3.1\PolymorphysmTask1.runtimeconfig.dev.json
+C:\Users\Onur\source\repos\PolymorphysmTask1\bin\Debug\netcoreapp3.1\PolymorphysmTask1.dll
+C:\Users\Onur\source\repos\PolymorphysmTask1\bin\Debug\netcoreapp3.1\PolymorphysmTask1.pdb
+C:\Users\Onur\source\repos\PolymorphysmTask1\obj\Debug\netcoreapp3.1\PolymorphysmTask1.csproj.AssemblyReference.cache
+C:\Users\Onur\source\repos\PolymorphysmTask1\obj\Debug\netcoreapp3.1\PolymorphysmTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\source\repos\PolymorphysmTask1\obj\Debug\netcoreapp3.1\PolymorphysmTask1.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\PolymorphysmTask1\obj\Debug\netcoreapp3.1\PolymorphysmTask1.AssemblyInfo.cs
+C:\Users\Onur\source\repos\PolymorphysmTask1\obj\Debug\netcoreapp3.1\PolymorphysmTask1.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\PolymorphysmTask1\obj\Debug\netcoreapp3.1\PolymorphysmTask1.dll
+C:\Users\Onur\source\repos\PolymorphysmTask1\obj\Debug\netcoreapp3.1\PolymorphysmTask1.pdb
+C:\Users\Onur\source\repos\PolymorphysmTask1\obj\Debug\netcoreapp3.1\PolymorphysmTask1.genruntimeconfig.cache
